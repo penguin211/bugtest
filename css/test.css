@@ -7,7 +7,7 @@
     /*navbar*/
     .navbar{
         padding: 0px;
-        margin: 50px 140px 0px;
+        margin: 0px 140px;
     }
 
     .navbar-nav{
@@ -17,7 +17,7 @@
     /*banner*/
     .banner{
         padding: 0px;
-        margin: 55px 140px 0px;
+        margin: 40px 140px 0px;
     }
 
     /*card*/
